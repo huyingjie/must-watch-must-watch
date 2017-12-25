@@ -1,8 +1,9 @@
-<h1 style="text-align:center"> Must-Watch Must-Watch </h1>
+<h1 align="center"> Must-Watch Must-Watch </h1>
 
 <p align="center">🌈  A Curated List of Must-watch Lists 👀</p>
 
 <div align="center" style="padding-bottom:10px">
+	<a href="https://github.com/huyingjie/must-watch-must-watch"><img src="https://img.shields.io/badge/must-watch-ff69b4.svg"></a>
 	<a href="https://github.com/huyingjie/must-watch-must-watch"><img src="https://img.shields.io/badge/must-watch-ff69b4.svg"></a>
 </div>
 
@@ -60,9 +61,9 @@
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
-* Please add a must-watch badge for the list added. <a href="https://github.com/huyingjie/must-watch-must-watch"><img src="https://img.shields.io/badge/must-watch-blue.svg"></a>
+* Please add a must-watch badge in the list added. <a href="https://github.com/huyingjie/must-watch-must-watch"><img src="https://img.shields.io/badge/must-watch-blue.svg"></a>
 
-	You can use whatever color you like to replace `<COLOR>`.
+	You can use whatever color you like by replacing `<COLOR>` in `<a href="https://github.com/huyingjie/must-watch-must-watch"><img src="https://img.shields.io/badge/must-watch-<CODE>.svg"></a>`.
 
 	For example
 	
