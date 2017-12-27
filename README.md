@@ -3,8 +3,8 @@
 <p align="center">🌈  A Curated List of Must-watch Lists 👀</p>
 
 <div align="center" style="padding-bottom:10px">
-	<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
-	<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
+	<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
+	<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
 </div>
 
 <div align="center">
@@ -63,25 +63,25 @@ Ways you can help
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
-* (Optional) Please add a must-watch badge in the list added. <a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>
+* (Optional) Please add a must-watch badge in the list added. <a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>
 
 	You can use whatever color you like by replacing `<COLOR>` in 
 	
-	`<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-<CODE>.svg"></a>`.
+	`<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-<CODE>.svg"></a>`.
 
 	For example
 	
-	* pink `ff69b4` <a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
+	* pink `ff69b4` <a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
 	
-		`<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>`
+		`<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>`
 
-	* red <a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-red.svg"></a>
+	* red <a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-red.svg"></a>
 	
-		`<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-red.svg"></a>`
+		`<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-red.svg"></a>`
 		
-	* blue <a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>
+	* blue <a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>
 	
-		`<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>`
+		`<a href="http://mustwatch.yingjiehu.com"><img src="https://img.shields.io/badge/Must-Watch-blue.svg"></a>`
 	
 #### Quality standard
 
