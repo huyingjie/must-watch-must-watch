@@ -15,7 +15,7 @@
 
 
 <div align="center" style="padding-top:20px">
-	<sub>Created and Maintained By <a href="http:yingjiehu.com" target="_blank">Yingjie Hu</a> with ❤️ &nbsp;Follow me on <a href="https://twitter.com/yingjieYJH" target="_blank">Twitter</a>.</sub>
+	<sub>Created and Maintained By <a href="http://yingjiehu.com" target="_blank">Yingjie Hu</a> with ❤️ &nbsp;Follow me on <a href="https://twitter.com/yingjieYJH" target="_blank">Twitter</a>.</sub>
 </div>
 
 ## <a id="table-of-contents"></a>Contents
