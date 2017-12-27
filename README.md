@@ -10,7 +10,8 @@
 <div align="center">
 	<a href="#Help-Wanted">Help Wanted</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/huyingjie/must-watch-must-watch/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.patreon.com/yingjiehu" target="_blank">Donation</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.patreon.com/yingjie" target="_blank">Donation</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.patreon.com/yingjie" target="_blank">Become a Sponsor</a>
 </div>
 
 
