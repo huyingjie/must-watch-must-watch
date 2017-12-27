@@ -45,6 +45,15 @@
 * [Data Science](https://github.com/kmonsoor/data-must-watch)
 
 ## <a id="Help-Wanted"></a>Help Wanted
+Ways you can help
+
+1. Add latest and greatest must-watch lists
+2. Delete broken links to must-watch lists
+3. Delete links to low-quality must-watch lists
+4. Design the appearance of [the website](http://mustwatch.yingjiehu.com)
+5. Fix any typo
+6. Rewrite the title or description of any list to make them more easily understood
+7. Suggest different ways to categorize
 
 ### Contribution Guideline
 
@@ -62,7 +71,6 @@
 
 	For example
 	
-
 	* pink `ff69b4` <a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>
 	
 		`<a href="http://mustwatch.yingjie.com"><img src="https://img.shields.io/badge/Must-Watch-ff69b4.svg"></a>`
